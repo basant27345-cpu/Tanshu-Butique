@@ -1,0 +1,26 @@
+/**
+ * @license
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+import Header from './components/Header';
+import Hero from './components/Hero';
+import Services from './components/Services';
+import Testimonials from './components/Testimonials';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+
+export default function App() {
+  return (
+    <div className="min-h-screen bg-stone-50 font-sans selection:bg-stone-200 selection:text-stone-900">
+      <Header />
+      <main>
+        <Hero />
+        <Services />
+        <Testimonials />
+        <Contact />
+      </main>
+      <Footer />
+    </div>
+  );
+}

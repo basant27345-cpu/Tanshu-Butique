@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Tanshu Boutique",
+  "description": "An optimized and top-ranking local SEO website for Tanshu Boutique in Gurgaon, featuring custom tailoring, bridal wear, and customer conversion tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
